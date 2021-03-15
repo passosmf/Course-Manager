@@ -11,8 +11,7 @@ import { CoreModule } from './core/core.module';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    Error404Component
+    AppComponent
   ],
   imports: [
     BrowserModule,
@@ -22,9 +21,6 @@ import { CoreModule } from './core/core.module';
     RouterModule.forRoot([
       {
         path: '', redirectTo: 'courses', pathMatch: 'full'
-      },
-      {
-        path: '**', component: Error404Component
       }
     ])
   ],
