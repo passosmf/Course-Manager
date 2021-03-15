@@ -5,7 +5,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 import { RouterModule } from '@angular/router';
-import { Error404Component } from './error-404/error-404.component';
 import { CourseModule } from './course/course.module';
 import { CoreModule } from './core/core.module';
 
