@@ -2,17 +2,14 @@
  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
- 
-
-
-
 
 <p align="center">
   <p align="center">
      A simple project just to sharp some Angular 8 skills.
     <br />
     <br />
-    <img src="ScreenShot1.png" alt="Screen Shoot Iphone 11" width="500" height="400">
+    <img src="ScreenShot1.png" alt="Screen Shoot Iphone 11" width="600" height="400">
+    <img src="ScreenShot2.png" alt="Screen Shoot Iphone 11" width="600" height="400">
   </p>
  </p>
 
